@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
 <a href="https://github.com/Yaniyamalik" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=300&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hello%2C+I+am+Divyanshu!;Welcome+to+my+profile!;%20" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=300&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=Hello%2C+I+am+Yaniya!;Welcome+to+my+profile!;%20" alt="Typing SVG"/>
 </a>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
@@ -15,7 +15,7 @@
 <h3 align="center">🎓 B.Tech Computer Science student | 💻 Full Stack Developer | 🚀 Hackathon Enthusiast </h3>
 
 <p align="center">
-  <img src="./herobg.png" align="center" style="width: 100%" alt="Divyanshu Verma" />
+  <img src="./herobg.png" align="center" style="width: 100%" alt="Yaniya" />
   
 </p>
 
@@ -79,9 +79,4 @@ I'm a passionate and solution-oriented developer currently pursuing B.Tech in Co
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9sboN2XGHjB95C/giphy.gif" alt="thank you gif" width="300"/>
-</p>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
